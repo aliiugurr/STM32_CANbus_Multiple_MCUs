@@ -35,4 +35,7 @@ PB9 => CAN_TX
 PB6 => I2C1 SCL
 PB7 => I2C1 SDA
 
-I2C communication is used for LCD
+I2C communication is used for LCD!
+
+[CANBUS DIAGRAM](https://user-images.githubusercontent.com/65983840/142001002-34ecfe2c-73dc-4a6a-b1a4-7017b0820e98.jpg)
+
