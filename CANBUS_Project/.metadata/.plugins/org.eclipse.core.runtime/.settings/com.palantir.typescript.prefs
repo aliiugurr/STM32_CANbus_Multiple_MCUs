@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+overriddenByCSS=,syntaxColoring.numberLiteral.color,syntaxColoring.operator.color,syntaxColoring.comment.color,syntaxColoring.keyword.color,syntaxColoring.regExpLiteral.color,syntaxColoring.stringLiteral.color,syntaxColoring.identifier.color,syntaxColoring.punctuation.color,
+syntaxColoring.comment.color=127,159,127
+syntaxColoring.identifier.color=221,221,204
+syntaxColoring.keyword.color=45,127,214
+syntaxColoring.numberLiteral.color=101,175,168
+syntaxColoring.operator.color=243,246,238
+syntaxColoring.punctuation.color=221,221,204
+syntaxColoring.regExpLiteral.color=195,103,63
+syntaxColoring.stringLiteral.color=195,103,63

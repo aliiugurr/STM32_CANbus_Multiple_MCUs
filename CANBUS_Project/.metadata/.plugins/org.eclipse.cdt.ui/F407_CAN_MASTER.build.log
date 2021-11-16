@@ -1,0 +1,10 @@
+16:46:58 **** Incremental Build of configuration Debug for project F407_CAN_MASTER ****
+make -j8 all 
+arm-none-eabi-size   F407_CAN_MASTER.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17372	    120	   1880	  19372	   4bac	F407_CAN_MASTER.elf
+Finished building: default.size.stdout
+ 
+
+16:46:58 Build Finished. 0 errors, 0 warnings. (took 454ms)
+
