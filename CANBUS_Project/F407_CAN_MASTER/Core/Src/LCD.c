@@ -2,12 +2,6 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdarg.h>
-/*
- * 	https://controllerstech.com/i2c-lcd-in-stm32/
- * 	https://deepbluembedded.com/stm32-lcd-16x2-tutorial-library-alphanumeric-lcd-16x2-interfacing/
- * 	https://github.com/MYaqoobEmbedded/STM32-Tutorials/tree/master/Tutorial%2042%20-%20LCD16x2%20I2C
- * 	https://stm32f4-discovery.net/2015/07/hal-library-15-hd44780-for-stm32fxxx/
- */
 
 #define I2C_SLAVE_ADDRESS  0x4E			/* User must write own slave device address */
 
