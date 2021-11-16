@@ -222,10 +222,10 @@ void LCD_Printf(const char* parameterValue, ...)
 {
 	char Array[20];
 
-	va_list argumanlar;
-	va_start(argumanlar, parameterValue);
-	vsprintf(Array, parameterValue, argumanlar);
-	va_end(argumanlar);
+	va_list argumans;
+	va_start(argumans, parameterValue);
+	vsprintf(Array, parameterValue, argumans);
+	va_end(argumans);
 
 	for(size_t i = 0; i < strlen(Array) && i < 16; i++)
 	{
