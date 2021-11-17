@@ -213,7 +213,7 @@ int main(void)
 
 	  if(comingData)
 	  {
-		 HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET);
+		 HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET);		/* for testing */
 
 	  /* We can send 8 bit data but distance value can be 16-bit value so we have to send in this way  */
 		  if(Distance > 255)
