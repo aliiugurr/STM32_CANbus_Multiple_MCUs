@@ -1,10 +1,3 @@
-/*
- * LCD.h
- *
- *  Created on: Sep 21, 2021
- *      Author: aliug
- */
-
 #ifndef INC_LCD_H_
 #define INC_LCD_H_
 
